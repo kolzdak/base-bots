@@ -30,6 +30,5 @@ fs.readdir(`./Commands/${subfolder}/`, (error, files) => {
     console.log("")
     console.log("---------------------------------")
     console.log("")
-    console.log("✅ - REGISTRO DE LOGS - ✅")
   }, 4000);
 };
