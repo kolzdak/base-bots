@@ -2,9 +2,7 @@ const client = require("../index")
 
 client.on("ready", () => {
     let activities = [
-        `com 💖 pelo DG`,
-        `Hitmans - OFICIAL`,
-        `ComplexoRJ - OFICIAL`
+        `com 💖 pelo Kolz`
     ],
         i = 0;
     setInterval(() => client.user.setActivity(`${activities[i++ % activities.length]}`),
