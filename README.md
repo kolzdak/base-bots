@@ -8,10 +8,12 @@ Aqui você irá encontrar uma base para bots Discord.js iniciante podendo usar a
 
 ## Informações importantes:
 
-nada a dizer por enquanto irei elaborar algo!
+Lembre-se de criar seu bot em [discord.dev](https://discord.com/developers/applications)
+Criar um token e anexar no arquivo config.json
 
 ## Entre em contato
 
-- Discord: dygeras.ofc
+- Meu Discord: [Clique aqui!](https://discord.com/channels/@me/1226298476434952265)
+- Loja Flexy Bots: [Clique aqui!](https://discord.gg/byKHWBDq96)
 
 ## Obrigado por visitar meu projeto! 😄
