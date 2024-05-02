@@ -14,6 +14,6 @@ Criar um token e anexar no arquivo config.json
 ## Entre em contato
 
 - Meu Discord: [Clique aqui!](https://discord.com/channels/@me/1226298476434952265)
-- Loja Flexy Bots: [Clique aqui!](https://discord.gg/byKHWBDq96)
+
 
 ## Obrigado por visitar meu projeto! 😄
